@@ -1,0 +1,11 @@
+{
+  "name": "firestore_queries",
+  "version": "1.0.0",
+  "author": "Yves Bonjour <yves.bonjour@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/firestore": "^2.2.0",
+    "firebase-admin": "^8.0.0"
+  },
+  "devDependencies": {}
+}
